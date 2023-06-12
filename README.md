@@ -1,0 +1,2 @@
+# SMSSplitter
+Split My SMS
